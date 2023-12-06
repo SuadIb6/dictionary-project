@@ -1,4 +1,9 @@
 .App-header {
+  font-family: "Calligraffitti", cursive;
+  font-family: "Delicious Handrawn", cursive;
+  text-align: center;
+  font-size: 100px;
+  color: #ff90bc;
   margin: 30px 0;
 }
 
