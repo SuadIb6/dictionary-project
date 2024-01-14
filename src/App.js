@@ -10,7 +10,16 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Suad Ibrahim</small>
+          <small>
+            Coded by Suad Ibrahim and is{" "}
+            <a
+              href="https://github.com/SuadIb6/dictionary-project"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              open-sourced on GitHub
+            </a>
+          </small>
         </footer>
       </div>
     </div>
